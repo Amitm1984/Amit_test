@@ -2,7 +2,7 @@
 This is test project
 
 
-!{image}(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw3pqA6wPVmytZkFHQzG9fvV&ust=1711645967881000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi0pKf4lIUDFQAAAAAdAAAAABAE)
+!{image}(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgithub-logo_25231&psig=AOvVaw329HXfR6aPZ619RsBAfum9&ust=1711646091199000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDZotz4lIUDFQAAAAAdAAAAABAE)
 
 
 # Agenda:
